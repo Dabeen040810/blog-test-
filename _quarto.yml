@@ -1,9 +1,8 @@
 project:
   type: website
-  output-dir: docs
 
 website:
-  title: "신다빈의 블로그"
+  title: "tttt"
   navbar:
     right:
       - about.qmd
@@ -13,7 +12,7 @@ website:
         href: https://twitter.com
 format:
   html:
-    theme: minty
+    theme: cosmo
     css: styles.css
 
 
