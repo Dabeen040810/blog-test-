@@ -1,0 +1,21 @@
+---
+title: "신다빈의 블로그"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: table
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+안녕하세요. 저는 신다빈입니다.
+이 블로그는
+
+- aa
+- bb
+- cc
+
+의 기능을 합니다
